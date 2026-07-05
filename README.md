@@ -18,8 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/akkki007/dsalgo/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akkki007/dsalgo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akkki007/dsalgo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akkki007/dsalgo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
