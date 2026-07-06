@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/akkki007/dsalgo/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/akkki007/dsalgo/tree/master/0567-permutation-in-string) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/akkki007/dsalgo/tree/master/0027-remove-element) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akkki007/dsalgo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
