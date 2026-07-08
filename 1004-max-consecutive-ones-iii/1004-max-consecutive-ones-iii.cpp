@@ -9,7 +9,7 @@ public:
                 zeros++;
             }
             // if we arrive at a point where the zeros get our of k
-            while(zeros>k){
+            if(zeros>k){
                 if(nums[l]==0){
                     zeros--;
                 }
