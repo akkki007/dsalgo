@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/akkki007/dsalgo/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akkki007/dsalgo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/akkki007/dsalgo/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akkki007/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akkki007/dsalgo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akkki007/dsalgo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akkki007/dsalgo/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akkki007/dsalgo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/akkki007/dsalgo/tree/master/0007-reverse-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akkki007/dsalgo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akkki007/dsalgo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
