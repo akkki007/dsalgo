@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akkki007/dsalgo/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/akkki007/dsalgo/tree/master/0050-powx-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akkki007/dsalgo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String Matching
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akkki007/dsalgo/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/akkki007/dsalgo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
