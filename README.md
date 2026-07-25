@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akkki007/dsalgo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akkki007/dsalgo/tree/master/0027-remove-element) |
+| [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akkki007/dsalgo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/akkki007/dsalgo/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akkki007/dsalgo/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
 |  |
