@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akkki007/dsalgo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/akkki007/dsalgo/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/akkki007/dsalgo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akkki007/dsalgo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/akkki007/dsalgo/tree/master/0904-fruit-into-baskets) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akkki007/dsalgo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akkki007/dsalgo/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/akkki007/dsalgo/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akkki007/dsalgo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/akkki007/dsalgo/tree/master/0209-minimum-size-subarray-sum) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/akkki007/dsalgo/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
