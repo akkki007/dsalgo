@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akkki007/dsalgo/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/akkki007/dsalgo/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/akkki007/dsalgo/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akkki007/dsalgo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/akkki007/dsalgo/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/akkki007/dsalgo/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/akkki007/dsalgo/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/akkki007/dsalgo/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/akkki007/dsalgo/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akkki007/dsalgo/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/akkki007/dsalgo/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akkki007/dsalgo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
