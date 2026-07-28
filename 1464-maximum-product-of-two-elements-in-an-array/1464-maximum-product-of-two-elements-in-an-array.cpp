@@ -1,17 +1,17 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int mx1 = 0, mx2 = 0;
+        int max1 = INT_MIN, max2 = INT_MIN;
 
-        for (int x : nums) {
-            if (x > mx1) {
-                mx2 = mx1;
-                mx1 = x;
-            } else if (x > mx2) {
-                mx2 = x;
+        for (int num : nums) {
+            if (num > max1) {
+                max2 = max1;
+                max1 = num;
+            } else if (num > max2) {
+                max2 = num;
             }
         }
 
-        return (mx1 - 1) * (mx2 - 1);
+        return (max1 - 1) * (max2 - 1);
     }
 };
