@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akkki007/dsalgo/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/akkki007/dsalgo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akkki007/dsalgo/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akkki007/dsalgo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/akkki007/dsalgo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akkki007/dsalgo/tree/master/0930-binary-subarrays-with-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/akkki007/dsalgo/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akkki007/dsalgo/tree/master/0063-unique-paths-ii) |
+| [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akkki007/dsalgo/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/akkki007/dsalgo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/akkki007/dsalgo/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akkki007/dsalgo/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akkki007/dsalgo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akkki007/dsalgo/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akkki007/dsalgo/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akkki007/dsalgo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akkki007/dsalgo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
