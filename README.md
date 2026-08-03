@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akkki007/dsalgo/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/akkki007/dsalgo/tree/master/1004-max-consecutive-ones-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/akkki007/dsalgo/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akkki007/dsalgo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akkki007/dsalgo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akkki007/dsalgo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akkki007/dsalgo/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/akkki007/dsalgo/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/akkki007/dsalgo/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akkki007/dsalgo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akkki007/dsalgo/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/akkki007/dsalgo/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akkki007/dsalgo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akkki007/dsalgo/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/akkki007/dsalgo/tree/master/3536-maximum-product-of-two-digits) |
@@ -178,4 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/akkki007/dsalgo/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akkki007/dsalgo/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/akkki007/dsalgo/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/akkki007/dsalgo/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/akkki007/dsalgo/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
